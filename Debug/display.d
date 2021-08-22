@@ -1,0 +1,1 @@
+ display.d  display.p1:  ../display.c ../display.h ../nxlcd.h

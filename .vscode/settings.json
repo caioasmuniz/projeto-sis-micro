@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.sql": "sql",
+    "xc.h": "c",
+    "htc.h": "c"
+  }
+}
