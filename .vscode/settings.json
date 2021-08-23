@@ -2,6 +2,13 @@
   "files.associations": {
     "*.sql": "sql",
     "xc.h": "c",
-    "htc.h": "c"
+    "htc.h": "c",
+    "display.h": "c",
+    "nxlcd.h": "c",
+    "configbits.h": "c",
+    "cstddef": "c",
+    "functional": "cpp",
+    "pic18.h": "c",
+    "dispenser.h": "c"
   }
 }

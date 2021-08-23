@@ -1,7 +1,7 @@
 #include <xc.h>
-// #include "configurationBits.h"
+#include "knob.c"
+#include "configBits.h"
 #include "display.h"
-
 #define _XTAL_FREQ 20000000
 
 

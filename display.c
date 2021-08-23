@@ -14,5 +14,5 @@ void lcdInit(){
 
 void lcdWrite(int pos, char* str){
   WriteCmdXLCD(pos);
-  putrsXLCD("str");
+  putrsXLCD(str);  
 }
